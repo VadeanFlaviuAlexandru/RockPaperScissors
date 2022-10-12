@@ -20,7 +20,7 @@
 * Made with Bootstrap
 * Great confetti when someone gives up, using party.js
 * Small notifications using Toastify.js
-* Used this great nature palette for it:
+* Used this great nature palette for it, tryin' to also get that yellow emoji vibe:
 
 ![6](https://user-images.githubusercontent.com/103831098/195327010-9ac0b3d1-b75e-4de7-bc71-683afc5ed78a.PNG)
 
