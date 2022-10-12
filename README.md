@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  ![icon](https://user-images.githubusercontent.com/103831098/195323516-bd4e8d2e-767b-42bb-aea0-aeda467130cf.png)
   <br>
-  Markdownify
+  Rock Paper Scissors
   <br>
 </h1>
 
