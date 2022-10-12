@@ -8,11 +8,8 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#how-to-use">How To Play</a> •
+  <a href="#download">Screenshots</a> •
 </p>
 
 ## Key Features
@@ -24,6 +21,13 @@
 * Great confetti when someone gives up, using party.js
 * Small notifications using Toastify.js
 
-## How To Use
+## How To Play
 
-Just download or clone this. Use a Live Server extension to run it.
+Just download or clone this. Use a Live Server extension to run it. With such simple buttons, there's no way you can get lost.
+
+## Screenshots
+![1](https://user-images.githubusercontent.com/103831098/195326557-813dc8b5-5f24-48ce-b70e-9d974234491c.png)
+![2](https://user-images.githubusercontent.com/103831098/195326562-202b1a1c-a773-4384-a7de-c673cdb03cc0.png)
+![3](https://user-images.githubusercontent.com/103831098/195326565-15de4351-0684-4bae-a019-6469dc96132f.png)
+![4](https://user-images.githubusercontent.com/103831098/195326570-d3ee68b1-2c58-4079-b35d-bf191f0a9691.png)
+![5](https://user-images.githubusercontent.com/103831098/195326573-d6a6eb01-a631-47ed-97ba-5ade0ed018ea.png)
