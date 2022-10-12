@@ -1,27 +1,10 @@
 
 <h1 align="center">
-  <br>
-  ![icon](https://user-images.githubusercontent.com/103831098/195323516-bd4e8d2e-767b-42bb-aea0-aeda467130cf.png)
-  <br>
   Rock Paper Scissors
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
-
-<p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
+<h4 align="center">My first personal project to understand CSS, HTML and JavaScript better.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -32,7 +15,9 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![3](https://user-images.githubusercontent.com/103831098/195324652-bafc8216-5896-45b2-a048-e5491661f242.png)
+
+![1](https://user-images.githubusercontent.com/103831098/195324636-132ccd7c-337d-4769-8634-25d2a7d8c0b9.png)
 
 ## Key Features
 
