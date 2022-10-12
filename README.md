@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Play</a> •
-  <a href="#download">Screenshots</a> •
+  <a href="#how-to-play">How To Play</a> •
+  <a href="#screenshots">Screenshots</a> •
 </p>
 
 ## Key Features
