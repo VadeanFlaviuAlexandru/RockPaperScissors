@@ -12,8 +12,9 @@
   <a href="#screenshots">Screenshots</a> •
 </p>
 
-## Key Features
+## Key Features https://vocal-cannoli-2f144d.netlify.app
 
+* <a href="https://vocal-cannoli-2f144d.netlify.app" target="_blank">Live Demo</a>
 * A functional Rock Paper Scissors game until someone presses the 'give up' button.
 * Can be played with another human being or a computer
 * When someone presses the 'give up' button, the name and score will be saved locally. This is made possible with Dexie.js, a minimalistic wrapper for IndexedDB.
