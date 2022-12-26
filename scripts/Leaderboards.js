@@ -12,7 +12,6 @@ db.version(1).stores({
 document.getElementById("BtnForDelete").onclick = function DeleteUserFromLeaderboard() {
     id = parseInt(document.getElementById("InputForDelete").value)
     db.UsersSaved.where("id").equals(id).delete()
-    //DeletionAlert();
     displayScores();
 }
 
@@ -47,15 +46,3 @@ function displayScores(UsersSaved) {
 window.addEventListener('load', () => {
     displayScores();
 });
-
-// function DeletionAlert() {
-//     Toastify({
-//         text: `User deleted from leaderboard.`,
-//         duration: 3000,
-//         gravity: "bottom",
-//         position: "center",
-//         style: {
-//             background: "#00FF00",
-//         }
-//     }).showToast();
-// }

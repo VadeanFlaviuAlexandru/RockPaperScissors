@@ -12,29 +12,28 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
     <script src="https://unpkg.com/dexie/dist/dexie.js"></script>
     <title>Rock Paper Scissors</title>
-
 </head>
 
 <body>
     <!--HEADER START-->
-    <header class="bg-dark bg-opacity-25">
-        <div class="container-fluid w-25">
-            <div class="row text-center align-items-center">
+    <header class="d-flex bg-dark bg-opacity-25  justify-content-center">
+        <div class="d-flex HeaderContainer container-fluid  w-25 flex-column justify-content-center">
+            <div class="d-flex HeaderContainer row text-center mt-2  justify-content-center">
                 <div class="col-4">
-                    <button class="btn btn-warning" data-bs-toggle="offcanvas" data-bs-target="#BottomCanvas">Play the
+                    <button class="btn btn-warning" data-bs-toggle="offcanvas" data-bs-target="#BottomCanvas">Let's Play the
                         Game!</button>
                 </div>
                 <div class="col-4">
-                    <img src="./resources/icon.png" class="img-fluid">
+                    <img src="./resources/icon.png" class="img-fluid" style="width: 70px;height: 70px;">
                 </div>
                 <div class="col-4">
                     <button class="btn btn-warning" data-bs-toggle="offcanvas" data-bs-target="#EndCanvas">Check the
                         Leaderboards!</button>
                 </div>
             </div>
-            <div class="row text-center align-items-center">
-                <div class="col">
-                    <button class="btn btn-warning disabled" id="NewGame">New Game!</button>
+            <div class="HeaderContainer row text-center align-items-center">
+                <div class="col HeaderContainer">
+                    <button class="btn btn-warning disabled mb-2 mt-2" id="NewGame">New Game!</button>
                 </div>
             </div>
         </div>
@@ -42,8 +41,9 @@
     <!--HEADER END-->
     <!--MAIN ELEMENTS START-->
     <div class="container text-center mt-5">
-        <div class="row align-items-center">
-            <div class="col-2" id="Player1Profile" style="visibility:hidden">
+        
+        <div class="row containerStart align-items-center">
+            <div class="CenteringDiv col-2" id="Player1Profile" style="visibility:hidden">
                 <div class="float-left" id="Profile">
                     <img id="Player1PictureM" src="./resources/male.jpg" class="img-fluid rounded"
                         style="display: none;">
@@ -61,8 +61,8 @@
                 <h1 style="color: green; border: 1em; margin-top: 2em;" id="WhosNext"></h1>
                 <button class="btn btn-warning mt-5 invisible" id="GivingUp">Give up...</button>
             </div>
-            <div class="col-2" id="Player2Profile" style="visibility:hidden">
-                <div class="float-right" id="Profile">
+            <div class="col-2 CenteringDiv" id="Player2Profile" style="visibility:hidden">
+                <div class="float-right mt-2" id="Profile">
                     <img id="Player2PictureM" src="./resources/male.jpg" class="img-fluid rounded"
                         style="display: none;">
                     <img id="Player2PictureF" src="./resources/female.jpg" class="img-fluid rounded"
@@ -79,13 +79,13 @@
     </div>
     <!--MAIN ELEMENTS END-->
     <!--OFF CANVAS BOTTOM START-->
-    <div class="offcanvas offcanvas-bottom" id="BottomCanvas">
+    <div class="offcanvas offcanvas-bottom h-50" id="BottomCanvas">
         <div class="offcanvas-header">
             <h5 class="offcanvas-title">Enter Your Names!</h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="container">
-            <div class="row justify-content-between needs-validation">
+            <div class="row CenteringDiv justify-content-between needs-validation">
                 <div class="col-auto">
                     <div class="input-group">
                         <span class="input-group-text">Player 1 Name</span>
@@ -101,7 +101,7 @@
                     </div>
                 </div>
                 <div class="col-auto text-center">
-                    <button class="btn btn-warning btn-lg disabled" id="StartGameVS" data-bs-dismiss="offcanvas"
+                    <button class="btn btn-warning btn-lg disabled mt-3" id="StartGameVS" data-bs-dismiss="offcanvas"
                         aria-label="Close">Start the Game!</button>
                     <h2 style="text-align:center;">or</h2>
                     <button class="btn btn-warning btn-lg disabled" id="StartGamePC" data-bs-dismiss="offcanvas"

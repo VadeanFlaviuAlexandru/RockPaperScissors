@@ -1,6 +1,5 @@
 body {
     height: 100vh;
-    /* background: radial-gradient(ellipse at bottom, #ffdd34dc , rgb(0, 0, 0)); */
     background-image: linear-gradient(0deg,
             hsl(47deg 60% 31%) 0%,
             hsl(47deg 50% 36%) 9%,
@@ -19,7 +18,7 @@ body {
     background-position: center;
 }
 
-ffde34 .selection {
+.selection {
     background: none;
     border: none;
     font-size: 8em
@@ -81,4 +80,38 @@ ffde34 .selection {
 ::-webkit-scrollbar-thumb {
     background: rgba(255, 234, 0, 0.534);
     border-radius: 10px;
+}
+@media only screen and (max-width: 1300px) {
+    .HeaderContainer {
+        width: 30rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
+    }
+    .NewGameButton{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
+    }
+    .img-fluid {
+       min-width: 10vh;
+    }
+    .containerStart{
+        display: flex;
+        flex-direction: column;
+    }
+    .CenteringDiv{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
+    }
 }
