@@ -12,7 +12,7 @@
   <a href="#screenshots">Screenshots</a> •
 </p>
 
-## Key Features https://vocal-cannoli-2f144d.netlify.app
+## Key Features
 
 * <a href="https://vocal-cannoli-2f144d.netlify.app" target="_blank">Live Demo</a>
 * A functional Rock Paper Scissors game until someone presses the 'give up' button.
