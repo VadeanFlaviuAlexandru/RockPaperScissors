@@ -15,6 +15,7 @@
 
 * <a href="https://therockthepapertheschissors.netlify.app" target="_blank">Live Demo</a>
 * A functional Rock Paper Scissors game until someone presses the 'give up' button.
+* It's responsive.
 * Can be played with another human being or a computer.
 * When someone presses the 'give up' button, the name and score will be saved locally. This is made possible with Dexie.js, a minimalistic wrapper for IndexedDB.
 * Made with Bootstrap.
