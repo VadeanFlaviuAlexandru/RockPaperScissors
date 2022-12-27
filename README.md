@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Rock Paper Scissors
   <br>
