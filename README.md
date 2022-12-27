@@ -14,13 +14,13 @@
 
 ## Key Features
 
-* <a href="https://vocal-cannoli-2f144d.netlify.app" target="_blank">Live Demo</a>
+* <a href="https://therockthepapertheschissors.netlify.app" target="_blank">Live Demo</a>
 * A functional Rock Paper Scissors game until someone presses the 'give up' button.
-* Can be played with another human being or a computer
+* Can be played with another human being or a computer.
 * When someone presses the 'give up' button, the name and score will be saved locally. This is made possible with Dexie.js, a minimalistic wrapper for IndexedDB.
-* Made with Bootstrap
-* Great confetti when someone gives up, using party.js
-* Small notifications using Toastify.js
+* Made with Bootstrap.
+* Great confetti when someone gives up, using party.js.
+* Small notifications using Toastify.js.
 * Used this great nature palette for it, tryin' to also get that yellow emoji vibe:
 
 ![6](https://user-images.githubusercontent.com/103831098/195327010-9ac0b3d1-b75e-4de7-bc71-683afc5ed78a.PNG)
