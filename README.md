@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">My first personal project to understand CSS, HTML, JavaScript and Bootstrap better.</h4>
-<h5 align="center"> ⚠️ The CSS is a work in progress, while somethings need to be redone. ⚠️ </h5>
+<h5 align="center"> ⚠️ The CSS is a work in progress, while some things need to be redone. ⚠️ </h5>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
